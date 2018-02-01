@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 
 		System.out.println("Steve sucks");
+		System.out.println("6928 gofuckyourself dr.");
 	}
 
 }
